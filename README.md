@@ -14,10 +14,26 @@
 1. make functions
 2. define types of parameters and returns
 
-### Construct directories
+### Construct directories & setup for dev mode
 
 1. ~ yarn add tsc-watch --dev //package download
 2. edit existing strat scripts on package.json
 3. construct hierachy //src, dist
 4. modify tsconfig for compiling all \*.ts files are placed in src & moving all output files to dist
-5.
+
+### interface (for sending object)
+1. define interface for object
+
+### class
+1. define class with constructor
+2. public/private
+
+### create class block
+
+### make hash
+1. yarn add crypto-js
+2. import crypto-js ( import * as CJs from "crypto-js";)
+3. make method inside class 
+4. 
+//screenflow
+
